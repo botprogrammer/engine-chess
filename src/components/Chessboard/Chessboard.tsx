@@ -145,3 +145,4 @@ export default function Chessboard({ playMove, pieces }: Props) {
 // Added loading states
 // Added loading states
 // Added loading states
+// Added loading states
