@@ -402,3 +402,4 @@ export default function Referee() {
 // Added move validation
 // Added API integration
 // Added FEN conversion
+// Added game over detection
